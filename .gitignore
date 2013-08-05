@@ -1,0 +1,6 @@
+# Junk #
+########
+
+*.xml
+*.zip
+/vendor/

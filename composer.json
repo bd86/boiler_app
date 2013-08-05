@@ -1,0 +1,20 @@
+{
+    "name": "php/boiler_app",
+    "authors": [
+        {
+            "name": "YOUR NAME",
+            "email": "YOUR EMAIL"
+        }
+    ],
+    "require": {
+        "silex/silex":"1.0.*@dev",
+        "twig/twig":">=1.8,<2.0-dev",
+        "symfony/twig-bridge":"~2.1"
+    },
+    "autoload":{
+        "classmap":[
+            "model"
+        ]
+    }            
+
+}

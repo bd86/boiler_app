@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{app.request.baseUrl}}/web/css/bootstrap.css" />
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>   
+        <script type="text/javascript" src="{{app.request.baseUrl}}/web/js/bootstrap.js"></script>
+    <title>{#{{ title }}#}</title>
+</head>
+    <body>
+        <div class="navbar navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <span class="navbar-brand">Template</span>
+                </div>
+            </div>
+        </div>
+        <div style="height:50px"></div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                {% block content %}{% endblock %}
+            </div>
+        </div>
+
+       <script type="text/javascript">
+            //YOUR JS CODE HERE
+       </script>
+    </body>
+</html>
