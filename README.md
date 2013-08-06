@@ -8,11 +8,8 @@ PHP Boiler Plate App
 3. Run `php composer.phar install` to download the packages 
 4. Optional(If using this in a sub directory)
     * Edit /vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php
-    * Replace with *SHA: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
+    * Replace with * SHA: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
     * Set htaccess.txt 
-
-
-*SHA: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
 
 ##Packages
 
