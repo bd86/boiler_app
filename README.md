@@ -18,10 +18,10 @@ These are set in the composer.json file.
 You can search for more packages [here](https://packagist.org/)  
 Or in the directory run `php composer.phar search`
 
-*[Silex](http://silex.sensiolabs.org/documentation/)
-    *A php microframework based on Symfony2
-*[Twig](http://twig.sensiolabs.org/documentation/)
-    *Twig is a simple templating language
+* [Silex](http://silex.sensiolabs.org/documentation/)
+    * A php microframework based on Symfony2
+* [Twig](http://twig.sensiolabs.org/documentation/)
+    * Twig is a simple templating language
 ---
-*SHA:fdf73548ebd385240f3e1cc2f341b22f74932ea7
+* SHA: fdf73548ebd385240f3e1cc2f341b22f74932ea7
 ---
