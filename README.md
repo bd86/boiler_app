@@ -23,4 +23,4 @@ Or in the directory run `php composer.phar search`
 *[Twig](http://twig.sensiolabs.org/documentation/)
     *Twig is a simple templating language
 
-* SHA: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
+bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
