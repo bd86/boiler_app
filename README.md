@@ -22,5 +22,6 @@ Or in the directory run `php composer.phar search`
     *A php microframework based on Symfony2
 *[Twig](http://twig.sensiolabs.org/documentation/)
     *Twig is a simple templating language
-
+---
 *SHA:fdf73548ebd385240f3e1cc2f341b22f74932ea7
+---
