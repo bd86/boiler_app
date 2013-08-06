@@ -10,6 +10,8 @@ PHP Boiler Plate App
     * Edit /vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php
     * Replace with *SHA: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
     * Set htaccess.txt 
+
+
 *SHA: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
 
 ##Packages
