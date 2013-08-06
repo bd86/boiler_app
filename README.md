@@ -8,7 +8,7 @@ PHP Boiler Plate App
 3. Run `php composer.phar install` to download the packages 
 4. Optional(If using this in a sub directory)
     * Edit /vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Request.php
-    * Replace with 
+    * Replace with the code here: bd86/HttpFoundation@fdf73548ebd385240f3e1cc2f341b22f74932ea7
     * Set htaccess.txt 
 
 ##Packages
